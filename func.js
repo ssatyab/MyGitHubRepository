@@ -1,7 +1,7 @@
 function double(num)
 {
-	return x * 2;
+	return num * 2;
 }
 
 var x= 2;
-double(x)
+x = double(x)
